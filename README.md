@@ -32,8 +32,8 @@ A lightweight yet extensible **CRM (Customer Relationship Management)** system d
 |--------------|------------------|
 | Frontend     | Angular           |
 | Backend      | Express.js (Node.js) |
-| Auth         | JSON Web Token (JWT) or session-based |
-| Styling      | Bootstrap / Angular Material |
+| Auth         | JSON Web Token (JWT)  |
+| Styling      |  Angular Material |
 | API Format   | RESTful JSON      |
 
 ---
@@ -103,7 +103,6 @@ ng serve
 /frontend       -> Angular app
 /backend        -> Express REST API
 /README.md      -> Project documentation
-/public/images  -> Screenshot assets (IMG1.png to IMG7.png)
 ```
 
 ---
